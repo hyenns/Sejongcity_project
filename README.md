@@ -1,6 +1,6 @@
 # 세종시 공공 전기자전거 도입을 위한 거치대 최적 입지 선정
 
-<img src="https://github.com/user-attachments/assets/5f9fe84d-e49d-4157-a16a-0d8c766c16f6" alt="세종시 공모전 포스터" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/5f9fe84d-e49d-4157-a16a-0d8c766c16f6" alt="세종시 공모전 포스터" width="500" height="700">
 
 - 주최:
 - 명칭:
