@@ -11,6 +11,6 @@
 
 ## 프로젝트 PPT
 [<img width="1330" alt="세종시 발표 자료 메인" src="https://github.com/user-attachments/assets/eaa1324c-704e-40dc-8d86-13677b249d78">](https://github.com/hyenns/sejongcity_project/blob/main/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
-<div align="center"> 👆🏻위 이미지를 클릭하면 프로젝트 PPT를 보실 수 있습니다.👆🏻 </div><br>
+<div align="center"> 👆🏻위 이미지를 클릭하면 프로젝트 PDF를 보실 수 있습니다.👆🏻 </div><br>
 
 
